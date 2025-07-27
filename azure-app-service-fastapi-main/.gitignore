@@ -1,0 +1,5 @@
+# github workflow directory, will be generated upon creation of an Azure App Service
+.github/
+
+.idea
+**/.ipynb_checkpoints
